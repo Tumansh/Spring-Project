@@ -1,9 +1,5 @@
 package com.tumansh.Ecom_backend.models;
-
-import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
-
-import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 import java.util.Date;

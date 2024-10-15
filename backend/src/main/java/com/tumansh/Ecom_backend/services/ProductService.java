@@ -3,7 +3,6 @@ package com.tumansh.Ecom_backend.services;
 import com.tumansh.Ecom_backend.models.Product;
 import com.tumansh.Ecom_backend.repo.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.RequestEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
