@@ -21,9 +21,6 @@
 
 <h3>Backend (Spring Boot)</h3>
 <ol>
-  <li>Clone the backend repo:
-    <pre><code>git clone https://github.com/Tumansh/Spring-Project.git</code></pre>
-  </li>
   <li>Configure <code>application.properties</code> for your database.</li>
   <li>Run the backend:
     <pre><code>mvn spring-boot:run</code></pre>
@@ -32,9 +29,6 @@
 
 <h3>Frontend (React + Vite)</h3>
 <ol>
-  <li>Clone the frontend repo:
-    <pre><code>git clone &lt;frontend-repo-url&gt;</code></pre>
-  </li>
   <li>Install dependencies:
     <pre><code>npm install</code></pre>
   </li>
